@@ -1,0 +1,16 @@
+# Node.js (se usi npm per pacchetti tipo jest)
+node_modules/
+npm-debug.log*
+
+# Build output (se un giorno aggiungi bundler)
+dist/
+build/
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
